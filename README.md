@@ -12,9 +12,9 @@ Enter command to get the radar/enter the radar editing interface, where you can 
 
 ## Use effect
 
-![file_1563286174000.jpg](images/file_1563286174000.jpg)
+![2.jpg](images/2.jpg)
 
-![file_1563286249000.jpg](images/file_1563286249000.jpg)
+![1.jpg](images/1.jpg)
 
 ## Lost radar detector?
 
