@@ -18,7 +18,7 @@ Enter command to get the radar/enter the radar editing interface, where you can 
 
 ## Lost radar detector?
 
-If you accidentally lose the radar sent by the first loading module, don't worry. You can drop the following synthetic materials on the ground **(within the radius of 1 sphere)** to synthesize. Synthetic materials: **red stone * 5, redstone repeater * 6, red stone torch * 4, red stone comparator * 3, carrot fishing rod * 1**
+If you accidentally lose the radar sent by the first loading module, don't worry. You can drop the following synthetic materials on the ground **(within the radius of 1 sphere)** to synthesize. Synthetic materials:**red stone * 5, redstone repeater * 6, red stone torch * 4, red stone comparator * 3, carrot fishing rod * 1**
 
 ## Datapack installation method
 
