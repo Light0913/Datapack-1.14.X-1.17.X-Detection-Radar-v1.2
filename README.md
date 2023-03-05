@@ -22,6 +22,6 @@ If you accidentally lose the radar sent by the first loading module, don't worry
 
 ## Datapack installation method
 
-put the compressed package into the archived datapacks folder, enter command or re-enter the world
+put the compressed package into the archived datapacks folder, enter command or reload the world
 
 Command:`/reload`
