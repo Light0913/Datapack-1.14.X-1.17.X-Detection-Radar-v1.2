@@ -2,6 +2,8 @@
 
 ## Use Tutorial
 
+**Compatibility with multiplayer games: poor compatibility**
+
 The module can view the outline of minerals and some entities through the box
 
 After loading the module, you will get the **radish fishing rod**, which is the radar, **Right click to use it**
