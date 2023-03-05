@@ -16,6 +16,12 @@ Enter command to get the radar/enter the radar editing interface, where you can 
 
 ![file_1563286249000.jpg](images/file_1563286249000.jpg)
 
-## Uynthetic method
+## Lost radar detector?
 
-If you accidentally lose the radar sent by the first loading module, don't worry. You can drop the following synthetic materials on the ground (within the radius of 1 sphere) to synthesize. Synthetic materials: **red stone * 5, red stone repeater * 6, red stone torch * 4, red stone comparator * 3, carrot fishing rod * 1**
+If you accidentally lose the radar sent by the first loading module, don't worry. You can drop the following synthetic materials on the ground **(within the radius of 1 sphere)** to synthesize. Synthetic materials: **red stone * 5, red stone repeater * 6, red stone torch * 4, red stone comparator * 3, carrot fishing rod * 1**
+
+## Group installation method
+
+put the compressed package into the archived datapacks folder, enter command or enter the world directly
+
+Command:`/reload`
