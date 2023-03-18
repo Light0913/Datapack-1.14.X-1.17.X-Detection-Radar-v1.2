@@ -1,4 +1,4 @@
-# Datapack-1.14.X_1.17.X-Detection-Radar-v1.2
+# Datapack-1.14.X-1.17.X-Detection-Radar-v1.2
 
 ## Use Tutorial
 
