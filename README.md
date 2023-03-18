@@ -10,7 +10,7 @@ After loading the module, you will get the **radish fishing rod**, which is the 
 
 Enter command to get the radar/enter the radar editing interface, where you can set the radar detection range and detection object:
 
-`trigger drget @s set 1`
+`/trigger drget @s set 1`
 
 ## Use effect
 
